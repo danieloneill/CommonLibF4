@@ -10,6 +10,8 @@
 * [clang-format 12.0.0](https://github.com/llvm/llvm-project/releases)
 * [CMake](https://cmake.org/)
 * [vcpkg](https://github.com/microsoft/vcpkg)
+* [catch2](https://github.com/catchorg/Catch2)
+* [mmio](https://github.com/Ryan-rsm-McKenzie/mmio.git)
 
 ## F4SE Plugin Requirements
 
