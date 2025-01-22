@@ -13,6 +13,7 @@
 * [catch2](https://github.com/catchorg/Catch2)
 * [mmio](https://github.com/Ryan-rsm-McKenzie/mmio.git)
 * [srell](https://github.com/ZimProjects/SRELL)
+* [taywee::args](https://github.com/Taywee/args)
 
 ## F4SE Plugin Requirements
 
