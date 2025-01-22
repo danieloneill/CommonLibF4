@@ -14,6 +14,7 @@
 * [mmio](https://github.com/Ryan-rsm-McKenzie/mmio.git)
 * [srell](https://github.com/ZimProjects/SRELL)
 * [taywee::args](https://github.com/Taywee/args)
+* [frozen](https://github.com/serge-sans-paille/frozen)
 
 ## F4SE Plugin Requirements
 
