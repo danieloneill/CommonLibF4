@@ -12,6 +12,7 @@
 * [vcpkg](https://github.com/microsoft/vcpkg)
 * [catch2](https://github.com/catchorg/Catch2)
 * [mmio](https://github.com/Ryan-rsm-McKenzie/mmio.git)
+* [srell](https://github.com/ZimProjects/SRELL)
 
 ## F4SE Plugin Requirements
 
