@@ -15,6 +15,8 @@
 * [srell](https://github.com/ZimProjects/SRELL)
 * [taywee::args](https://github.com/Taywee/args)
 * [frozen](https://github.com/serge-sans-paille/frozen)
+* [nowide](https://github.com/boostorg/nowide)
+* [xbyak](https://github.com/herumi/xbyak)
 
 ## F4SE Plugin Requirements
 
